@@ -1,4 +1,4 @@
-### Hi there 👋
+<h1 align="center"> ### Hi there 👋 </h1>
 
 <!--
 **36h/36h** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
